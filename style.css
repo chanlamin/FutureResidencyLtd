@@ -327,7 +327,7 @@ nav .navigation ul li a:hover{
 }
 #registration{
   padding: 6vw 8vw 6vw 8vw;
-  background-image: linear-gradient(rgba(99,112,168,0.5), rgba(81, 91, 233, 0.5)),url("happyfamily.jpg");
+  background-image: linear-gradient(rgba(99,112,168,0.5), rgba(81, 91, 233, 0.5)),url("images/happyfamily.jpg");
   width: 100%;
   height: 100%;
   background-size: cover;
